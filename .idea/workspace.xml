@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77c200e3-aec9-4d7b-8a79-066e811bbd7e" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/neuro_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/central_square_10_epoch.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_refactor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/test_dpi100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/test_dpi100_flip.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/flipped/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/normal/9.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2tFqbf6pMbxLtD0dkGgoqKPErgc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.config.executor": "Run",
+    "Python.data_refactor.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.neuro_model.executor": "Run",
+    "Python.сonfig.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Levak/PycharmProjects/PythonProject",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Levak\PycharmProjects\neuro_test" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77c200e3-aec9-4d7b-8a79-066e811bbd7e" name="Changes" comment="" />
+      <created>1739958243136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739958243136</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+</project>
